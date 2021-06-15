@@ -1,1 +1,1 @@
-var console = "nitendo"
+var console = "super nitendo";
