@@ -1,1 +1,1 @@
-var console = "super nitendo";
+var console = "nitendo64"
